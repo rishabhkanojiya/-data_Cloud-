@@ -7,7 +7,6 @@
     "cameraUpload": true,
     "dataTrans": false
   },
-
   "home": [
     {
       "name": "The next big thing",
@@ -30,7 +29,6 @@
       "size": 2.3
     }
   ],
-
   "local": [
     {
       "name": "Franky Wah - Aftertime",
@@ -57,5 +55,164 @@
       "fromat": "archive",
       "size": 620.1
     }
-  ]
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "desc": "This is such a beautiful view captured in Norway😇",
+      "author": "typicode",
+      "url": "https://images.unsplash.com/photo-1618588507085-c79565432917?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVhdXRpZnVsJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+      "id": 2,
+      "desc": "Tropical Settings ☀️🌴🌅 - Wilne, Nottingham 📍",
+      "author": "christxanjaemes",
+      "url": "https://images.unsplash.com/photo-1546587348-d12660c30c50?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bmF0dXJhbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+      "id": 3,
+      "desc": "This charming square full of astonishing palaces🌅",
+      "author": "hamarahazara",
+      "url": "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 4,
+      "desc": "Modo fin de semana en 3,2,1... 💙✨🌿",
+      "author": "fernandobivas",
+      "url": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 2,
+      "body": "some more comment",
+      "postId": 2,
+      "user": "Dennis Castro"
+    },
+    {
+      "id": 3,
+      "body": "another one",
+      "postId": 2,
+      "user": "Erin Gildon"
+    },
+    {
+      "id": 4,
+      "body": "some comment",
+      "postId": 3,
+      "user": "Randall Baxter"
+    },
+    {
+      "id": 6,
+      "body": "some comment",
+      "postId": 1,
+      "user": "Ollie Stoke"
+    },
+    {
+      "body": "new",
+      "user": "random",
+      "postId": 1,
+      "id": 7
+    },
+    {
+      "body": "hehe",
+      "user": "random",
+      "postId": 1,
+      "id": 8
+    }
+  ],
+  "reactions": [
+    {
+      "id": 1,
+      "reactionId": 1,
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "reactionId": 1,
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "reactionId": 1,
+      "postId": 3
+    },
+    {
+      "id": 4,
+      "reactionId": 2,
+      "postId": 1
+    },
+    {
+      "id": 5,
+      "reactionId": 3,
+      "postId": 1
+    },
+    {
+      "reactionId": 1,
+      "postId": 1,
+      "id": 6
+    },
+    {
+      "reactionId": 2,
+      "postId": 1,
+      "id": 7
+    },
+    {
+      "reactionId": 1,
+      "postId": 4,
+      "id": 8
+    },
+    {
+      "reactionId": 1,
+      "postId": 1,
+      "id": 9
+    },
+    {
+      "reactionId": 1,
+      "postId": 1,
+      "id": 10
+    },
+    {
+      "reactionId": 2,
+      "postId": 1,
+      "id": 11
+    },
+    {
+      "reactionId": 1,
+      "postId": 1,
+      "id": 12
+    },
+    {
+      "reactionId": 1,
+      "postId": 1,
+      "id": 13
+    },
+    {
+      "reactionId": 2,
+      "postId": 2,
+      "id": 14
+    },
+    {
+      "reactionId": 3,
+      "postId": 2,
+      "id": 15
+    },
+    {
+      "reactionId": 4,
+      "postId": 2,
+      "id": 16
+    },
+    {
+      "reactionId": 4,
+      "postId": 2,
+      "id": 17
+    },
+    {
+      "reactionId": 2,
+      "postId": 3,
+      "id": 18
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
